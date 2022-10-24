@@ -1,8 +1,7 @@
-# curriculum-databases-projects-template
+#  database performance audit
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
-
+Improve what can impact in database perfomance.
+Reducing dramatically the time getting results like a 400% quicker, reducing redundance data inside relational tables. 
 
 ## Getting Started
 
@@ -15,17 +14,16 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ## Authors
 
-👤 **Author1**
+👤 **ADDIS TSEGA**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@assead](https://github.com/Aseadd)
+- Twitter: [@adaTsega](https://twitter.com/adaTsega)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/addis-tsega)
 
-👤 **Author2**
+👤 **ANDY MENUTTI**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@andym80](https://github.com/andym80)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/andres-menutti)
 
 ## 🤝 Contributing
 
