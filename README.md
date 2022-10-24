@@ -18,7 +18,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 - GitHub: [@assead](https://github.com/Aseadd)
 - Twitter: [@adaTsega](https://twitter.com/adaTsega)
-- LinkedIn: [LinkedIn]([https://www.linkedin.com/in/addis-tsega]
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/addis-tsega)
 
 👤 **ANDY MENUTTI**
 
