@@ -16,13 +16,13 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 👤 **ADDIS TSEGA**
 
-- GitHub: [@assead](https://github.com/assead)
+- GitHub: [@assead](https://github.com/Aseadd)
 - Twitter: [@adaTsega](https://twitter.com/adaTsega)
 - LinkedIn: [LinkedIn]([https://www.linkedin.com/in/addis-tsega]
 
 👤 **ANDY MENUTTI**
 
-- GitHub: [@gandym80](https://github.com/andym80)
+- GitHub: [@andym80](https://github.com/andym80)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/andres-menutti)
 
 ## 🤝 Contributing
