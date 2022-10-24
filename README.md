@@ -1,7 +1,7 @@
 #  database performance audit
 
 Improve what can impact in database perfomance.
-Reducing dramatically the time getting results like a 400% quicker, reducing redundance data inside ralational tables. 
+Reducing dramatically the time getting results like a 400% quicker, reducing redundance data inside relational tables. 
 
 ## Getting Started
 
