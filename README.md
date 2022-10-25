@@ -2,7 +2,8 @@
 
 Improve what can impact in database perfomance.
 Reducing dramatically the time getting results like a 400% quicker, reducing redundance data inside relational tables. 
-
+## The database schema
+[database schema](https://drive.google.com/file/d/1Ul0oqLYIMFVedf7zFUxef_Q9oTzfwViZ/view?usp=sharing)
 ## Getting Started
 
 This repository includes files with plain SQL that can be used to recreate a database:
